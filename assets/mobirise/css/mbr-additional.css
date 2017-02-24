@@ -496,8 +496,23 @@ h6,
   background-color: #b8312f;
   border-color: #b8312f;
 }
+#content8-1i .mbr-section-title,
+#content8-1i p {
+  text-align: right;
+  color: #fff;
+}
+#content8-1i .mbr-section-title {
+  text-align: center;
+}
 #gallery4-u LI {
   text-align: left;
+}
+#social-buttons2-1j .mbr-section-title,
+#social-buttons2-1j .btn-social {
+  color: #232323;
+}
+#social-buttons2-1j .mbr-section-title {
+  color: #ffffff;
 }
 #contacts3-t .btn {
   font-family: 'Raleway', sans-serif;
