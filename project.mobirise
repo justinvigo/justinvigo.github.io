@@ -188,7 +188,7 @@
             }
           },
           "title": "Hello\u001b",
-          "text": "My name is Justin Vigo. I was born on November 8, 2002. I'm 14 and i am an 8th grade technology student at Miami Arts Studio.",
+          "text": "My name is Justin Vigo. I was born on November 8, 2002. I'm 14 and i am an 8th grade technology student at Miami Arts Studio. When I first came into MAS I was a non-magnet student but I’ve always had a passion for photography and editing. Eventually I joined the technology program because ever since I was little I always knew the basics about technology but have always wanted to learn more about design and editing. With this one year that I have been in this program my skills have advanced extremely. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -479,7 +479,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCx1k-Ht4LRn54ZauXr31jjQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCx1k-Ht4LRn54ZauXr31jjQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a>       "
         },
         {
           "_tags": [
