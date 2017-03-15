@@ -482,13 +482,14 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#content8-1h .mbr-section-title,
-#content8-1h p {
+#content8-1w .mbr-section-title,
+#content8-1w p {
   text-align: right;
   color: #fff;
 }
-#content8-1h .mbr-section-title {
-  text-align: center;
+#content8-1w .mbr-section-title {
+  text-align: left;
+  font-size: 72px;
 }
 #social-buttons2-1l .mbr-section-title,
 #social-buttons2-1l .btn-social {
