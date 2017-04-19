@@ -190,7 +190,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -217,7 +217,7 @@
           },
           "title": "CLICK HERE TO SEE NEWEST YOUTUBE VIDEO<br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=Sbrgq8fkxf8&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">YOUTUBE LINK</a>"
         },
         {
           "_inherit": "gallery1",
