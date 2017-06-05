@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 78,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 79,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -167,9 +166,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header2-25",
           "_params": {
-            "imageSize": "39",
+            "imageSize": "52",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo-2000x1333.jpg",
@@ -190,7 +194,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/download-1400x1400.png",
               "link": "",
@@ -199,10 +202,11 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=BzuxGpPs3qE&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -211,7 +215,7 @@
             }
           },
           "title": "CLICK HERE TO SEE LATEST YOUTUBE VIDEO",
-          "text": "(Still Constructing)",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">YOUTUBE LINK</a>"
         },
         {
@@ -956,7 +960,7 @@
       "settings": {
         "title": "Illustrator",
         "meta_descr": "Website Builder Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1942,9 +1946,9 @@
               "url": "https://www.youtube.com/embed/cptygSjSr_A?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222222",
             "columns": "5",
             "showImages": true,
             "showTitles": true,
@@ -2278,7 +2282,7 @@
       "settings": {
         "title": "Web Site Builder Title",
         "meta_descr": "Web Site Builder Description",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
